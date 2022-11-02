@@ -1,0 +1,1 @@
+Reposítório criado para poder aplicar os estudos sobre programação funcional. Neste primeiro grupo estão apenas as interfaces funcionais e as funções lambdas de forma bem simples. Mais informações podemos encontrar no livro Funtional programming de Ralph Lecesi
